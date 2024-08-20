@@ -30,4 +30,11 @@
     Для того, чтобы сделать ход, необходимо нажать левой кнопкой мыши на соответствующую ячейку.
   
 Желаю Вам интересных, захватывающих сражений!
+
+![image](https://github.com/user-attachments/assets/78d88d9f-75bc-4064-b96e-436ada56cf1f)
+![image](https://github.com/user-attachments/assets/1867e66e-5bbf-4061-a1b8-7a834187521b)
+![image](https://github.com/user-attachments/assets/f6565985-3473-43b3-8eea-d6ee5d487886)
+
+
+
     
